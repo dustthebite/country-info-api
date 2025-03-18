@@ -18,6 +18,7 @@ Accessing DB
 Testing the app
 1) Open Postman or any other software for api testing
 2) Here are requests that you can use
+   
    GET http://localhost:3000/countries/   - this will return list of countries
    
    GET http://localhost:3000/countries/{countryCode}  - this will return info about specific country by its country code.
