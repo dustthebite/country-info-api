@@ -1,4 +1,4 @@
-**Country info api
+**Country info api**
 
 This api can fetch info about countries and also store holidays in user's calendar database. It uses Node as runtime, TypeScript as language, Express as backend framework, MongoDB as DB and Mongoose as ORM.
 
