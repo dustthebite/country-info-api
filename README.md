@@ -1,5 +1,8 @@
 **Country info api**
 
+!!IMPORTANT!!
+Due to some issues on my PC, I had to use older version of ESlint. It still works fine, but you might see messages about deprecated packages during installation.
+
 This api can fetch info about countries and also store holidays in user's calendar database. It uses Node as runtime, TypeScript as language, Express as backend framework, MongoDB as DB and Mongoose as ORM.
 
 Installation:
